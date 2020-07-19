@@ -10,5 +10,7 @@ Lorem ipsum dolor sit amet, ad partiendo scriptorem accommodare cum, corpora per
 
 ## I'm now going to attempt to load and image
 ![alt text][TheChiefAndZach]
+![alt text][TheChiefAndZach2]
 
 [TheChiefAndZach]: https://media.gettyimages.com/photos/actor-zac-efron-poses-with-the-master-chief-of-the-halo-universe-picture-id77003384 "This is a picture of actor Zach Efron standing next to Master Chief from the Halo video game series."
+[TheChiefAndZach2]: https://media.gettyimages.com/photos/actor-zac-efron-poses-with-the-master-chief-of-the-halo-universe-picture-id77003384
