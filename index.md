@@ -1,3 +1,9 @@
+---
+layout: default
+title: Example Site
+description: This is a hastely thrown together website to test what Github Pages & Jekyll are capible of.
+---
+
 # Welcome to the page. This is a header.
 ## Here are some examples of different text
 Lorem ipsum dolor sit amet, ad partiendo scriptorem accommodare cum, corpora pericula qui id. *Soleat integre splendide no vix, pro electram democritum et.* **Pri in natum solet splendide. Pro ut clita diceret oportere.** Augue falli dissentias et vim, usu ne sint neglegentur.
