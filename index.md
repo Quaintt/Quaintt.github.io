@@ -1,4 +1,7 @@
-# Example Header
+# Welcome to the page. This is a header.
+## Here are some examples of different text
 Lorem ipsum dolor sit amet, ad partiendo scriptorem accommodare cum, corpora pericula qui id. *Soleat integre splendide no vix, pro electram democritum et.* **Pri in natum solet splendide. Pro ut clita diceret oportere.** Augue falli dissentias et vim, usu ne sint neglegentur.
 
-Stet accumsan ocurreret has an, cum prima possit no. Viderer vulputate no mea, ne senserit consulatu vel. Sea ex facilisi platonem. Eam laudem appareat in, vis ei error eirmod. Tale nostrum id sed, semper epicuri propriae cu duo. Sea malorum labitur te, nam no expetendis consectetuer.
+## I'm now going to attemp to load and image
+![alt text][TheChiefAndZach]
+[TheChiefAndZach]: https://media.gettyimages.com/photos/actor-zac-efron-poses-with-the-master-chief-of-the-halo-universe-picture-id77003384 "This is a picture of actor Zach Efron standing next to Master Chief from the Halo video game series."
