@@ -1,6 +1,7 @@
 ---
-layout: "page"
-title: "About Us"
+layout: default
+title: About Us
+description: Some information about us
 ---
 
 # About Us
