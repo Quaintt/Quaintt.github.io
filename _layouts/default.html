@@ -26,8 +26,9 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <!--I'm going to add some test buttons as a makeshift navbar-->
-      <a href="quaintt.github.io/about" class="btn">About Page</a>
-      <a href="quaintt.github.io/contact" class="btn">Contact Page</a>
+      <a href="" class="btn">Home Page</a>
+      <a href="/about" class="btn">About Page</a>
+      <a href="/contact" class="btn">Contact Page</a>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
