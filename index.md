@@ -8,9 +8,7 @@ description: This is a hastely thrown together website to test what Github Pages
 ## Here are some examples of different text
 Lorem ipsum dolor sit amet, ad partiendo scriptorem accommodare cum, corpora pericula qui id. *Soleat integre splendide no vix, pro electram democritum et.* **Pri in natum solet splendide. Pro ut clita diceret oportere.** Augue falli dissentias et vim, usu ne sint neglegentur.
 
-## I'm now going to attempt to load and image
+## I'm now going to load an image
 ![alt text][TheChiefAndZach]
-![alt text][TheChiefAndZach2]
 
 [TheChiefAndZach]: https://media.gettyimages.com/photos/actor-zac-efron-poses-with-the-master-chief-of-the-halo-universe-picture-id77003384 "This is a picture of actor Zach Efron standing next to Master Chief from the Halo video game series."
-[TheChiefAndZach2]: https://media.gettyimages.com/photos/actor-zac-efron-poses-with-the-master-chief-of-the-halo-universe-picture-id77003384
